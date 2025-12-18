@@ -3,7 +3,6 @@
 
 ## 🔥 Kali Hacker Terminal — Entorno ofensivo automatizado para Pentesting & Red Team
 
-````md
 
 Este repositorio contiene mi entorno de terminal ofensivo personalizado para Kali Linux, diseñado para **acelerar flujos reales de pentesting**, reducir tareas repetitivas y estandarizar un entorno reproducible para Red Team, OSINT y CTFs.
 
@@ -45,6 +44,3 @@ Proyecto con fines educativos y de aprendizaje. Usar únicamente en entornos con
 
 ```
 
-
-El siguiente puede ser **liga profesional** 🧠💣
-```
